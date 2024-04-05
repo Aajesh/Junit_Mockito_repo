@@ -1,4 +1,4 @@
-package com.mockito.aajesh;
+package com.aajesh.mockito;
 
 public class Main {
     public static void main(String[] args) {
